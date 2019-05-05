@@ -1,2 +1,2 @@
 # Skolehjelpen
-Android app made for an exam
+Android app written in kotlin, made for an exam
