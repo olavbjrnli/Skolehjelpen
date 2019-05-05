@@ -1,0 +1,251 @@
+{"Naturfag" : {
+    "1" :{
+        "Question" : "Hvilken form for karbohydrat er glukose?",
+        "option1" : "Monosakkarid",
+        "option2" : "Polysakkarid",
+        "option3" : "Fiber",
+        "option4" : "Disakkarid",
+        "answer" : "Monosakkarid"
+    },
+    "2" :{
+        "Question" : "Hvilke av disse stoffene er proteiner?",
+        "option1" : "Insulin",
+        "option2" : "Enzymer",
+        "option3" : "Glykogen",
+        "option4" : "Stivelse",
+        "answer" : "Insulin"
+    },
+    "3" :{
+        "Question" : "Hvilken målenhet bruker vi for energi?",
+        "option1" : "kWh",
+        "option2" : "m/s",
+        "option3" : "W",
+        "option4" : "N",
+        "answer" : "kWh"
+    },
+    "4" :{
+        "Question" : "Hva slags spekter gir sollyset?",
+        "option1" : "Sammenhengende spekter",
+        "option2" : "Emisjonsspekter",
+        "option3" : "Absorpssjonsspekter",
+        "option4" : "Arominaspekter",
+        "answer" : "Absorpssjonsspekter"
+    },
+    "5" :{
+        "Question" : "Grunnstoffet kalsium (Ca) har 20 protoner i kjernen. Antall elektroner i et kalsiumiumion, Ca2+, må da være:",
+        "option1" : "16",
+        "option2" : "18",
+        "option3" : "20",
+        "option4" : "22",
+        "answer" : "18"
+    }
+},"Geografi" : {
+    "1" :{
+        "Question" : "Hvilket kontinent ligger høyest?",
+        "option1" : "Europa",
+        "option2" : "Nord-Amerika",
+        "option3" : "Afrika",
+        "option4" : "Antarktika",
+        "answer" : "Antarktika"
+    },
+    "2" :{
+        "Question" : "Hvilket kontinent er det største?",
+        "option1" : "Asia",
+        "option2" : "Sør-Amerika",
+        "option3" : "Oseania",
+        "option4" : "Europa",
+        "answer" : "Asia"
+    },
+    "3" :{
+        "Question" : "Hva heter hovedstaden i Nederland?",
+        "option1" : "Utrecht",
+        "option2" : "Eindhoven",
+        "option3" : "Amsterdam",
+        "option4" : "Rotterdam",
+        "answer" : "Amsterdam"
+    }
+    ,
+    "4" :{
+        "Question" : "Hvilke farger har det franske flagget?",
+        "option1" : "Rødt, hvitt og blått",
+        "option2" : "Gult, blått og hvitt",
+        "option3" : "Rødt, hvitt og gult",
+        "option4" : "Rødt og hvitt",
+        "answer" : "Rødt, hvitt og blått"
+    }
+    ,
+    "5" :{
+        "Question" : "Hva er navnet på det største havet?",
+        "option1" : "Rødehavet",
+        "option2" : "Middelhavet",
+        "option3" : "Atlanterhavet",
+        "option4" : "Stillehavet",
+        "answer" : "Stillehavet"
+    }
+}, "Gym" : {
+    "1" :{
+        "Question" : "Styrketrening er:",
+        "option1" : "Bra for kroppsholdning",
+        "option2" : "å gå rolige turer",
+        "option3" : "det samme som bodybuilding",
+        "option4" : "å stå i utforstilling",
+        "answer" : "Bra for kroppsholdning"
+    },
+    "2" :{
+        "Question" : "Hva er viktig for at muskelfibrene skal bli større?",
+        "option1" : "At du trener oftere enn før",
+        "option2" : "At du trener tungt",
+        "option3" : "At du øker belastningen",
+        "option4" : "At du utvikler nervefibrene",
+        "answer" : "At du øker belastningen"
+    },
+    "3" :{
+        "Question" : "Hvordan lage en god øktplan?",
+        "option1" : "Sette av god tid til uttøyning etter harde økter",
+        "option2" : "Planlegge trening av spenst før trening av styrke",
+        "option3" : "Planlegge trening av spenst etter trening av styrke",
+        "option4" : "Aldri trene",
+        "answer" : "Planlegge trening av spenst før trening av styrke"
+    },
+    "4" :{
+        "Question" : "Hvilken idrett går man på langrenn?",
+        "option1" : "Ski",
+        "option2" : "Fotball",
+        "option3" : "Håndball",
+        "option4" : "Svømming",
+        "answer" : "Ski"
+    },
+    "5" :{
+        "Question" : "Hvem står i mål?",
+        "option1" : "Keeper",
+        "option2" : "Angrep",
+        "option3" : "Forsvar",
+        "option4" : "Midtbane",
+        "answer" : "frispark"
+    }
+}, "Religion" : {
+    "1" :{
+        "Question" : "Hva er de to største retningene innenfor islam?",
+        "option1" : "Sunni og Niva",
+        "option2" : "Shia og Andrna",
+        "option3" : "Niva og Andrna",
+        "option4" : "Sunni og Shia",
+        "answer" : "Sunni og Shia"
+    },
+    "2" :{
+        "Question" : "Hvilken religion hadde Jesus?",
+        "option1" : "Jødisk",
+        "option2" : "Kristen",
+        "option3" : "Buddhist",
+        "option4" : "Ingen",
+        "answer" : "Jødisk"
+    },
+    "3" :{
+        "Question" : "Hva heter islams helligste by?",
+        "option1" : "Aleppo",
+        "option2" : "Jerusalem",
+        "option3" : "Mokka",
+        "option4" : "Mekka",
+        "answer" : "Mekka"
+    },
+    "4" :{
+        "Question" : "Hva kaller vi jødenes hellige skrifter?",
+        "option1" : "Ormulum",
+        "option2" : "Tora",
+        "option3" : "Dasam Granth",
+        "option4" : "Enuma Elish",
+        "answer" : "Tora"
+    },
+    "5" :{
+        "Question" : "Hva heter verdens eldste religion som fortsatt eksisterer?",
+        "option1" : "Buddhismen",
+        "option2" : "Kristendommen",
+        "option3" : "Hinduismen",
+        "option4" : "Islamismen",
+        "answer" : "Hinduismen"
+    }
+}, "Spansk" : {
+        "1" :{
+            "Question" : "Se llama Karina y ___ 22 años",
+            "option1" : "está",
+            "option2" : "es",
+            "option3" : "tiene",
+            "option4" : "hay",
+            "answer" : "tiene"
+        },
+        "2" :{
+            "Question" : "__ estudiar para los exámenes",
+            "option1" : "Pienso",
+            "option2" : "Vamos a",
+            "option3" : "Fuimos a",
+            "option4" : "Voy a",
+            "answer" : "Vamos a"
+        },
+        "3" :{
+            "Question" : "Line consiguió trabajo cuando aún no ___ sus estudios",
+            "option1" : "terminó",
+            "option2" : "terminaba",
+            "option3" : "ha terminado",
+            "option4" : "había terminado",
+            "answer" : "había terminado"
+        },
+        "4" :{
+            "Question" : "A mis padres no ___ nada el cambio climático",
+            "option1" : "le preocupan",
+            "option2" : "les preocupa",
+            "option3" : "les encantan",
+            "option4" : "se preocupan",
+            "answer" : "les preocupa"
+        },
+        "5" :{
+            "Question" : "Si les interesa a ustedes este libro, ___",
+            "option1" : "no lo lleven",
+            "option2" : "puede llevarlo",
+            "option3" : "llévenselo",
+            "option4" : "pueden llevarlos",
+            "answer" : "llévenselo"
+        }
+    
+}, "Historie" : {
+    "1" :{
+        "Question" : "Når endte den kalde krigen?",
+        "option1" : "1988",
+        "option2" : "1987",
+        "option3" : "1989",
+        "option4" : "1990",
+        "answer" : "1989"
+    },
+    "2" :{
+        "Question" : "I hvilken by ble Franz Ferdinand skutt?",
+        "option1" : "Sarajevo",
+        "option2" : "Budapest",
+        "option3" : "Poznan",
+        "option4" : "Stalingrad",
+        "answer" : "Sarajevo"
+    },
+    "3" :{
+        "Question" : "Hva var slagordet under Den franske revolusjon?",
+        "option1" : "Alle for en",
+        "option2" : "Napoleon må dø",
+        "option3" : "Hold sammen, uansett hva",
+        "option4" : "Frihet, likhet og brorskap",
+        "answer" : "Frihet, likhet og brorskap"
+    },
+    "4" :{
+        "Question" : "Hvilket å ble berlinmuren bygd?",
+        "option1" : "1960",
+        "option2" : "1955",
+        "option3" : "1964",
+        "option4" : "1961",
+        "answer" : "1961"
+    },
+    "5" :{
+        "Question" : "Når var detstore børskrakket på Wall Street?",
+        "option1" : "1929",
+        "option2" : "1909",
+        "option3" : "1978",
+        "option4" : "1999",
+        "answer" : "1929"
+    }
+}
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "70725279247",
+    "firebase_url": "https://pgr201-eksamen.firebaseio.com",
+    "project_id": "pgr201-eksamen",
+    "storage_bucket": "pgr201-eksamen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70725279247:android:031e9199c5ac956d",
+        "android_client_info": {
+          "package_name": "no.olavbjrnli.skolehjelpen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70725279247-69n9sm2oerqd04qb977kgm8omgfhefds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "no.olavbjrnli.skolehjelpen",
+            "certificate_hash": "00f4c6d6876cd568040cc975d5fedbc303077ae7"
+          }
+        },
+        {
+          "client_id": "70725279247-7tlt9g7oop4nnm845s9bp4a2diofb8pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY2mO3rGN2upQ4qMkl2vz0qyIu9bWpGgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70725279247-7tlt9g7oop4nnm845s9bp4a2diofb8pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
